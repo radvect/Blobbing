@@ -19,7 +19,7 @@ public class game {
         blobs.move(1000   );
         System.out.println();
         blobs.print_state();
-
+        System.out.println(1);
 
     }
 }
